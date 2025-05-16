@@ -115,7 +115,7 @@ python main.py
 
 ## 👨‍💻 Author
 
-- **Niraj Kark** - [GitHub](https://github.com/nirajkark)
+- **Pariskarpoudel** - [GitHub](https://github.com/Pariskarpoudel/)
 
 ## 🙌 Acknowledgments
 
